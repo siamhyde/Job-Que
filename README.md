@@ -8,13 +8,18 @@ The system currently supports two users with independent profiles, search strate
 
 ## Why I Built It
 
-Job searching was fragmented across alert emails, job boards, saved links and application records.
+Job searching is fragmented across alert emails, job boards, saved links and application records.
+
+Searching requires constant motivation, context-switching and discernment.
 
 I built Job Que to turn that into one workflow: collect vacancies, recover fuller descriptions, remove duplicates, assess each opportunity against the user and make the reasoning visible.
 
 ## Demo
 
-<!-- Add reviewed screenshots here using synthetic or non-sensitive demonstration data.
+<img width="1052" height="662" alt="image" src="https://github.com/user-attachments/assets/100b646d-50cd-4283-8d10-ccdd59fee632" />
+
+<img width="715" height="959" alt="image" src="https://github.com/user-attachments/assets/d9520258-caf1-4395-889a-3b295e6d392e" />
+
 
 Suggested screenshots:
 1. Main vacancy queue
