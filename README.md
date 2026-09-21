@@ -8,14 +8,9 @@ The system currently supports two users with independent profiles, search strate
 
 ## Why I Built It
 
+Job searching is fragmented across alerts, job boards and saved links, and I found the manual process easy to neglect.
 
-Job searching is fragmented across alert emails, job boards, saved links and application records.
-
-Searching manually requires constant motivation, context-switching and judgement. In practice, that friction meant I searched inconsistently and risked missing opportunities or losing sight of what the market was asking for.
-
-I built Job Que to reverse that workflow: instead of repeatedly searching for jobs, vacancies come into one system where they can be collected, enriched, deduplicated and assessed against my profile.
-
-It turned job searching from something I had to repeatedly initiate into a pipeline I could review, save from and act on.
+I built Job Que so opportunities come to me instead: vacancies are collected, enriched, deduplicated and assessed against my profile, turning sporadic searching into a reviewable pipeline.
 
 ## Demo
 
