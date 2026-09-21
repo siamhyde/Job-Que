@@ -1,6 +1,3 @@
-Absolutely — paste this directly into `README.md`:
-
-````md
 # Job Que
 
 Job Que is a personalised job-discovery and application-tracking system.
