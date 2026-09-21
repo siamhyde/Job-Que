@@ -8,11 +8,14 @@ The system currently supports two users with independent profiles, search strate
 
 ## Why I Built It
 
+
 Job searching is fragmented across alert emails, job boards, saved links and application records.
 
-Searching requires constant motivation, context-switching and discernment.
+Searching manually requires constant motivation, context-switching and judgement. In practice, that friction meant I searched inconsistently and risked missing opportunities or losing sight of what the market was asking for.
 
-I built Job Que to turn that into one workflow: collect vacancies, recover fuller descriptions, remove duplicates, assess each opportunity against the user and make the reasoning visible.
+I built Job Que to reverse that workflow: instead of repeatedly searching for jobs, vacancies come into one system where they can be collected, enriched, deduplicated and assessed against my profile.
+
+It turned job searching from something I had to repeatedly initiate into a pipeline I could review, save from and act on.
 
 ## Demo
 
@@ -103,7 +106,9 @@ Job Alerts          Reed API          Manual URLs
 
 Vacancies are stored independently for each user.
 
-LinkedIn and Indeed listings can be enriched through a local browser worker before being reassessed against the user's profile.
+LinkedIn and Indeed listings are enriched through a local Playwright worker before being reassessed against the user's profile.
+
+The enrichment worker currently runs locally. At the present scale this avoids unnecessary hosted infrastructure; the architecture can move to an always-on worker when user volume makes local execution a practical bottleneck.
 
 ## Personalisation
 
