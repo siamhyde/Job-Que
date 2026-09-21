@@ -81,6 +81,3 @@ Applications remain human-controlled: Job Que identifies, organises and assesses
 Application code and personal user data remain private.
 
 ```
-
-This is much closer to the **Hyde README style**: short introduction, origin, visual proof, architecture, stack, scale, status. Once you add 2–4 screenshots, it should read very cleanly as an employer-facing portfolio piece. 
-```
