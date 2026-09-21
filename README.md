@@ -16,13 +16,6 @@ I built Job Que to turn that into one workflow: collect vacancies, recover fulle
 
 ## Demo
 
-<img width="715" height="959" alt="image" src="https://github.com/user-attachments/assets/d9520258-caf1-4395-889a-3b295e6d392e" />
-
-
-## Demo
-
-## Demo
-
 <table>
   <tr>
     <td width="65%">
